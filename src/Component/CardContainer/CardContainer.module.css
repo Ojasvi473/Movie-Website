@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+  flex-wrap: wrap;
+  display: flex;
+  text-align: center;
+  background-color: #474545;
+}
+
+.inputDiv {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 15px;
+  border-radius: 30px;
+  outline: none;
+}
